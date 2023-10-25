@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using CretaceousApi.Models;
+using CretaceousPark.Models;
 
-namespace CretaceousApi.Controllers
+namespace CretaceousPark.Controllers
 {
   [Route("api/[controller]")]
   [ApiController]

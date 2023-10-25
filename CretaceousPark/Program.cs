@@ -1,4 +1,4 @@
-using CretaceousApi.Models;
+using CretaceousPark.Models;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
