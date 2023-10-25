@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace CretaceousApi.Models
+namespace CretaceousPark.Models
 {
   public class CretaceousApiContext : DbContext
   {
